@@ -98,15 +98,15 @@ bash <(curl -s https://raw.githubusercontent.com/saosaodev/saosaoxui/main/update
 
 - (Niduka Akalanka)
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh) 0.2.1.2
+bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh)
 ````
 - (Sanaei)
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v1.7.9
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 ````
 - (Alireza)
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh) 1.5.5
+bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
 ````
 - (Vaxilu)
 ````
@@ -122,9 +122,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 # حمایت
 
-- Tron (TRX): ``
-- Bitcoin: ``
-- Dogecoin: ``
+- Tron (TRX): `THFS4R7EYY3Bd3iHqs3S8QVT7HjQSPUt6A`
+- Bitcoin: `1Hz8wEjTbMjxPktjZ72cDjktXRGUYPduqq`
+- Tether(TRC20): `THFS4R7EYY3Bd3iHqs3S8QVT7HjQSPUt6A`
 
 
 
