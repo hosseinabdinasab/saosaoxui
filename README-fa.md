@@ -33,8 +33,8 @@
 
 [![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsaosaoch&color=blue)](https://telegram.dog/saosaoch)
 [![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsaosaodev)](https://telegram.dog/saosaodev)
-<img src="https://img.shields.io/github/license/saosaodev/saosaoxui?style=flat-square" />
-<img src="https://img.shields.io/github/v/release/saosaodev/saosaoxui.svg" />
+<img src="https://img.shields.io/github/license/hosseinabdinasab/saosaoxui?style=flat-square" />
+<img src="https://img.shields.io/github/v/release/hosseinabdinasab/saosaoxui.svg" />
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=saosaodev.saosaodev" />
  -->
 </div>
