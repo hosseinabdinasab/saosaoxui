@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/hosseinabdinasab/saosaoxui" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/27927279/227711552-d2bc1089-5666-477b-9be7-d7e50a5286dc.png">
-      <img width="200" height="200" src="https://user-images.githubusercontent.com/27927279/227711552-d2bc1089-5666-477b-9be7-d7e50a5286dc.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hosseinabdinasab/saosaoxui/assets/165170298/fd9e2bfc-4137-4d20-8c52-82a34158ec43">
+      <img width="200" height="200" src="https://github.com/hosseinabdinasab/saosaoxui/assets/165170298/fd9e2bfc-4137-4d20-8c52-82a34158ec43">
     </picture>
   </a>
 </p>
